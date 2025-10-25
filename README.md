@@ -24,14 +24,15 @@ Développé en Kotlin | Compatible Android 8+
 
 
 
-/////////////////////==============   ✨✨✨✨✨✨✨✨Before the activation of Bluetooth ===============//////////////////////
+✨✨✨✨✨✨✨✨Before the activation of Bluetooth ===============
 
 ![WhatsApp Image 2025-10-25 at 17 56 57](https://github.com/user-attachments/assets/21441c0d-934f-4c56-bc1b-c26a5c650056)
 
 
 
-/////////////////////==============   ✨✨✨✨✨✨✨✨After the activation of Bluetooth ===============//////////////////////
+✨✨✨✨✨✨✨✨After the activation of Bluetooth ===============
 
 
 ![WhatsApp Image 2025-10-25 at 17 57 47](https://github.com/user-attachments/assets/dc8c4be6-c58a-442a-a248-a71b0103d88f)
+
 
