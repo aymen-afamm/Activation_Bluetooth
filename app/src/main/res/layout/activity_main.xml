@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:gravity="center"
+    android:gravity="center_horizontal"
     android:background="#F5F5F5"
     android:padding="24dp">
 
@@ -22,5 +22,34 @@
         android:layout_height="wrap_content"
         android:text="Vérification du Bluetooth..."
         android:textSize="18sp"
-        android:textColor="#000000" />
+        android:textColor="#000000"
+        android:layout_marginBottom="24dp"/>
+
+    <EditText
+        android:id="@+id/editPairedDeviceName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nom de l'appareil connecté"
+        android:textSize="16sp"
+        android:padding="12dp"
+        android:layout_marginBottom="32dp"
+        android:background="#FFFFFF"
+        android:inputType="none"
+        android:focusable="false"
+        android:clickable="false"
+        android:maxLines="1"
+        android:gravity="center_vertical"/>
+
+    <TextView
+        android:id="@+id/textDevicesList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Liste des appareils appariés apparaîtra ici."
+        android:textSize="16sp"
+        android:textColor="#333333"
+        android:padding="12dp"
+        android:background="#E0E0E0"
+        android:gravity="start"
+        android:minHeight="100dp"/>
+
 </LinearLayout>
